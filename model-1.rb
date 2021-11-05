@@ -7,3 +7,7 @@ num_pets = 2
 num_cars = 3
 pi = 3.14
 radius = 7
+
+is_hungry = true
+is_tire = false
+is_thirsty = true
