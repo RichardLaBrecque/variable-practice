@@ -11,3 +11,6 @@ radius = 7
 is_hungry = true
 is_tire = false
 is_thirsty = true
+
+pets_names = ["Simba", "Gram"]
+car_makes = ["Honda", "Ford", "Mercedes"]
