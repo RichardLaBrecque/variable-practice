@@ -14,3 +14,6 @@ is_thirsty = true
 
 pets_names = ["Simba", "Gram"]
 car_makes = ["Honda", "Ford", "Mercedes"]
+
+states = ["RI" => "Rhode Island", "CT" => "Connecticut", "MA" => "Massachusetts"]
+drivers = ["honda" => "jess", "Benz" => "Richard"]
